@@ -7,6 +7,6 @@ public class Naveen {
         System.out.println("ths is Praveen new latest code");
 
 
-        System.out.println("checking inter push by prav");
+        System.out.println("checking inter push by praveen");
     }
 }
